@@ -1,0 +1,12 @@
+
+.DS_Store
+
+.Rhistory
+*.pyc
+*.m~
+
+.ipynb_checkpoints/
+
+farrell&lewandowsky2018.pdf
+farrell&lewandowsky2018_chapters.zip
+*.skim
